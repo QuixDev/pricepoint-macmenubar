@@ -13,8 +13,8 @@
 
 **First, clone this repo:**
  ```
-git clone https://github.com/geraldoramos/crypto-bar.git
-cd crypto-bar
+git clone https://github.com/quixdev/pricepoint-macmenubar.git
+cd pricepoint-macmenubar
  ```
 
 **Then install and launch:**
