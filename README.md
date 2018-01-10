@@ -9,20 +9,10 @@
 
 - To download the last release click [here](https://github.com/geraldoramos/crypto-bar/releases/latest)
 
-### Build the app locally for development (PR's welcome)
-
-**First, clone this repo:**
+**Open terminal then paste this:**
  ```
 git clone https://github.com/quixdev/pricepoint-macmenubar.git
 cd pricepoint-macmenubar
- ```
-
-**Then install and launch:**
-```
 npm install && npm start
+
  ```
-
-### License
-This app is distributed under the Creative Commons Zero v1.0 Universal license.
-
-Follow me on [Twitter](http://twitter.com/geraldoramos)
